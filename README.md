@@ -71,6 +71,7 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-form-pompage](https://github.com/hepl-cpw/html-form-pompage)
 1. [html-form-login-appel-3D](https://github.com/hepl-cpw/html-form-login-appel-3D)
 1. [html-form-login-registration](https://github.com/hepl-cpw/html-form-login-registration)
+1. [html-rem-form-web-shop](https://github.com/pworontzoff/html-rem-form-web-shop)
 
 ### Microdata
 
@@ -78,3 +79,4 @@ Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
 1. [html-microdata-contact](https://github.com/hepl-cpw/html-microdata-contact)
 1. [html-microdata-avatar](https://github.com/hepl-cpw/html-microdata-avatar)
 1. [html-microdata-recette](https://github.com/hepl-cpw/html-microdata-recette)
+1. [html-rem-qq-microinfos-sur-moi](https://github.com/pworontzoff/html-rem-qq-microinfos-sur-moi)
